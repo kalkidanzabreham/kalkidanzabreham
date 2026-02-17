@@ -3,11 +3,11 @@
 I'm a Software Engineering student passionate about building real-world systems and exploring Artificial Intelligence.
 
 ### 🚀 What I Work With
-#### Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### ⚙️ Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -47,10 +47,11 @@ I'm a Software Engineering student passionate about building real-world systems 
 - Research-driven problem solving
 
 ### 📌 What You'll Find Here
-- Backend API projects
-- Mobile applications
-- Learning-focused AI experiments
-- Clean, well-documented code
+- 🚀 Backend API projects with scalable architecture
+- 🌐 Full-stack applications 
+- 📱 Cross-platform mobile apps
+- 🧠 AI/ML experiments and model deployment projects
+- ✨ Clean, maintainable, and well-documented code
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/kalkidan-abreham-50040b319/
